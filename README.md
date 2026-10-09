@@ -112,5 +112,5 @@ flowchart LR
 
 本仓库根目录的 [SKILL.md](SKILL.md) 是可复用的 Codex Skill，`references/` 保存台账与钉钉操作细节，`scripts/audit_patent_ledger.py` 只读核对 Excel。把整个仓库放在 Codex 的个人 skills 目录后，可以通过 `$dingtalk-patent-fee-reminders` 调用。
 
-仓库中的流程图可由 GitHub 直接显示。原 Word 草稿包含尚未打码的真实操作截图，这些截图没有放进仓库。公开自己的操作案例前，请先遮挡姓名、邮箱、企业和专利资料。
+
 
