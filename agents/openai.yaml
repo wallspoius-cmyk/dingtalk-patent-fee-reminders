@@ -1,0 +1,5 @@
+interface:
+  display_name: "钉钉专利缴费提醒"
+  short_description: "将专利Excel接入云端邮件和钉钉提醒，配置日期公式并验证送达"
+  default_prompt: "使用 $dingtalk-patent-fee-reminders，核对我的专利缴费台账并配置或维护钉钉云端缴费提醒。"
+
